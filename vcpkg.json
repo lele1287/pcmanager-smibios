@@ -1,0 +1,10 @@
+{
+  "name": "pcmanager-smibios-proxy",
+  "version-string": "0.1.0",
+  "builtin-baseline": "latest",
+  "dependencies": [
+    {
+      "name": "minhook"
+    }
+  ]
+}
